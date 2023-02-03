@@ -1,0 +1,110 @@
+.brand_header{
+    margin-top: 130px;
+}
+
+.brand_tittle{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 110%;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+
+.brand_header_descr{
+    display: flex;
+    margin-top: 25px;
+}
+
+.brand_mane{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000
+}
+
+.bar {
+    height: 1.5px;
+    background-color: #000;
+    width: 12px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+.brand_not-mane{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #919191;
+    margin-left: 13px;
+}
+
+.first_elems{
+    display: flex;
+    margin-top: 150px;
+}
+
+.first_text{
+    margin-top: 50px;
+    margin-left: 94px;
+}
+
+.first_text p {
+    margin-top: 45px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+
+.first_text-tittle{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+
+.first_img{
+    width: 442px;
+    height: 547px;
+}
+
+.second_img {
+    width: 442px;
+    height: 547px;
+}
+
+.second_text {
+    margin-right: 120px;
+}
+
+.brand_button{
+    cursor: pointer;
+    margin-top: 120px;
+    margin-left: calc(50% - 260px / 2);
+    width: 260px;
+    height: 68px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 138.9%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background-color: #6E9C9F;
+    border-width: 0;
+}

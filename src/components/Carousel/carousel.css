@@ -1,0 +1,28 @@
+.main-container {
+    display: flex;
+    margin-left: 60px;
+    height: 650px;
+    width: 435px;
+}
+
+.window {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.all-elems-container{
+    height: 100%;
+    display: flex;
+
+    transition: translate;
+    transition-property: transform;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+}
+
+.arrow {
+    cursor: pointer;
+    margin-top: auto;
+    margin-bottom: auto;
+}

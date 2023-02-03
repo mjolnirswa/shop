@@ -1,0 +1,118 @@
+iframe {
+    margin-top: 160px;
+}
+
+.contacts{
+    margin-top: 120px;
+    display: flex;
+}
+
+.contacts_block {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contacts_block-tittle {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+
+.contacts_block-inf {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+    margin-top: 15px;
+
+}
+
+.contacts_form{
+    margin-top: 130px;
+}
+
+.contacts_form-tittle{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+
+.forms {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    border: 0;
+    width: 350px;
+    height: 40px;
+    border-bottom: 1px solid #000;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #868686;
+    margin-bottom: 35px;
+}
+
+.form_button{
+    cursor: pointer;
+    width: 189px;
+    height: 68px;
+    background: #6E9C9F;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 138.9%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: 0;
+    margin-top: 55px;
+}
+
+.form_success{
+    width: 437px;
+    height: 84px;
+    background: #F1EADC;
+    margin-top: 60px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+    text-align: center;
+    align-items: center;
+}
+
+.form_success p {
+    margin-top: 30px;
+}
+
+.form_error{
+    color: red;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    margin-top: -25px;
+}

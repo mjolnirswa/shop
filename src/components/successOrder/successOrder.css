@@ -1,0 +1,45 @@
+.success {
+    margin-top: 100px;
+}
+
+.success_text {
+    margin-left: 44px;
+}
+
+.success_text-tittle {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+
+.success_text-descr {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+    margin-top: 17px;
+}
+
+.success_button {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 138.9%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #6E9C9F;
+    background-color: #fff;
+    width: 272px;
+    height: 68px;
+    border: 1px solid #6E9C9F;
+    cursor: pointer;
+    margin-top: 30px;
+}

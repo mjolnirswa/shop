@@ -1,0 +1,46 @@
+.user_email {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 140%;
+    letter-spacing: 0.02em;
+    color: #000000;
+    margin-top: 30px;
+}
+
+.exit_button {
+    width: 260px;
+    height: 68px;
+    background: #6E9C9F;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 138.9%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: 0;
+    margin-top: 30px;
+}
+
+.auth-button {
+    margin-top: 40px;
+    width: 170px;
+    height: 68px;
+    background: #6E9C9F;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 138.9%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: 0;
+}
+
+.auth-button:first-child {
+    margin-right: 20px;
+}

@@ -1,0 +1,88 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Образ 1",
+            "img": "https://ratatum.com/wp-content/uploads/2018/12/0d0931f3eafc47ed9847bb70a6e20dea.jpg",
+            "price": "129"
+        },
+        
+        {
+            "id": 2,
+            "name": "Образ 2",
+            "img": "https://avrorra.com/wp-content/uploads/2017/02/tufli-lodochki-foto_-17-768x1151.jpg",
+            "price": "89"
+        },
+        
+        {
+            "id": 3,
+            "name": "Образ 3",
+            "img": "https://mykaleidoscope.ru/uploads/posts/2022-01/1643261126_70-mykaleidoscope-ru-p-stilnie-obrazi-dlya-zhenshchin-moda-70.jpg",
+            "price": "199"
+        },
+
+        {
+            "id": 4,
+            "name": "Образ 1",
+            "img": "https://ratatum.com/wp-content/uploads/2018/12/0d0931f3eafc47ed9847bb70a6e20dea.jpg",
+            "price": "129"
+        },
+        
+        {
+            "id": 5,
+            "name": "Образ 2",
+            "img": "https://avrorra.com/wp-content/uploads/2017/02/tufli-lodochki-foto_-17-768x1151.jpg",
+            "price": "89"
+        },
+        
+        {
+            "id": 6,
+            "name": "Образ 3",
+            "img": "https://mykaleidoscope.ru/uploads/posts/2022-01/1643261126_70-mykaleidoscope-ru-p-stilnie-obrazi-dlya-zhenshchin-moda-70.jpg",
+            "price": "199"
+        },
+
+        {
+            "id": 7,
+            "name": "Образ 1",
+            "img": "https://ratatum.com/wp-content/uploads/2018/12/0d0931f3eafc47ed9847bb70a6e20dea.jpg",
+            "price": "129"
+        },
+        
+        {
+            "id": 8,
+            "name": "Образ 2",
+            "img": "https://avrorra.com/wp-content/uploads/2017/02/tufli-lodochki-foto_-17-768x1151.jpg",
+            "price": "89"
+        },
+        
+        {
+            "id": 9,
+            "name": "Образ 3",
+            "img": "https://mykaleidoscope.ru/uploads/posts/2022-01/1643261126_70-mykaleidoscope-ru-p-stilnie-obrazi-dlya-zhenshchin-moda-70.jpg",
+            "price": "199"
+        },
+
+        {
+            "id": 10,
+            "name": "Образ 1",
+            "img": "https://ratatum.com/wp-content/uploads/2018/12/0d0931f3eafc47ed9847bb70a6e20dea.jpg",
+            "price": "129"
+        },
+        
+        {
+            "id": 11,
+            "name": "Образ 2",
+            "img": "https://avrorra.com/wp-content/uploads/2017/02/tufli-lodochki-foto_-17-768x1151.jpg",
+            "price": "89"
+        },
+        
+        {
+            "id": 12,
+            "name": "Образ 3",
+            "img": "https://mykaleidoscope.ru/uploads/posts/2022-01/1643261126_70-mykaleidoscope-ru-p-stilnie-obrazi-dlya-zhenshchin-moda-70.jpg",
+            "price": "199"
+        }
+
+    ]
+}
